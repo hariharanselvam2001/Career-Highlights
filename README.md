@@ -52,7 +52,7 @@ GPA: 8.40/10
 
 ## 🚀 Featured Projects
 
-## [Human Activity Recognition with Smartphones] (https://github.com/hariharanselvam2001/Human-Activity-Recognition-using-Smartphones)
+## [Human Activity Recognition with Smartphones](https://github.com/hariharanselvam2001/Human-Activity-Recognition-using-Smartphones)
 > ✅ Achieved 94.41% test accuracy using a Support Vector Machine (SVM) model with PCA-based dimensionality reduction on sensor time-series data from smartphones, effectively classifying six human activities (e.g., walking, sitting, laying).
 
 > 🧠 Engineered high-impact features (e.g., motion energy, jerk magnitude, gyro ratios) from 561 raw sensor channels, then applied Principal Component Analysis (PCA) to retain 95% variance using only 179 components — enabling efficient and robust classification.
